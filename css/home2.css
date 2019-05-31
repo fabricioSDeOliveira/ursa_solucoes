@@ -1,0 +1,28 @@
+﻿body {
+    background-image:"/images/ursa.jpeg";
+}
+.container {color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+       
+}
+.efeitos {
+    width: 300px;
+    padding: 70px;
+    position: relative;
+    right: 65px;
+}
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Parceiros {
+    color: white !important;
+    text-align:center;
+    top:30px;
+}
+
+
